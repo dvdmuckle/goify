@@ -9,5 +9,4 @@
 vendor/*
 !LICENSE
 !spc.spec
-
-.pc
+!debian/**
